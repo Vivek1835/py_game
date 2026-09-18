@@ -1,2 +1,2 @@
 
-print("game")
+print("pygame")
