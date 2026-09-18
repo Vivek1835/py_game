@@ -1,3 +1,8 @@
 
 print("pygame")
 print("Hello, World!")
+
+x = 2
+y = 3
+result = x + y
+print(result)
